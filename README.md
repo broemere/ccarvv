@@ -43,3 +43,9 @@ Software companion to the **PRIM**
 
 ### Questions/requests
 * Contact broemere
+
+### Cite
+v0.1-alpha release 
+
+[![DOI](https://zenodo.org/badge/499912165.svg)](https://zenodo.org/badge/latestdoi/499912165)
+
